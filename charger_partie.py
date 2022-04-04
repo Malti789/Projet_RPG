@@ -17,3 +17,7 @@ window.config(background="black")   #Couleur de fond de la fenêtre
 
 
 """CONTENU DE LA FENETRE"""
+
+""""""
+
+window.mainloop()
